@@ -1,0 +1,4 @@
+repository "TestingLagi@wi3u@cloud"
+  path "/"
+    br "/main"
+    co "/main"
